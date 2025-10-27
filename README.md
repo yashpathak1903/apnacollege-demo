@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Yash Pathak
+Author - Yash Pathak (AIT Global)
